@@ -21,4 +21,5 @@ Computation times also have been measured and show how faster the binary heap is
 Use the makefile and especially the *make compile-all* command. You can then use the *app-generation-maze* or *app-generation-maze-bh* exectuables, by giving in the command line the path to a txt input file (stored in the data folder).
 
 # Example of results
+Image built using the file *map_100_100_42.txt*.
 ![Maze](illustration/Maze_illustration.png)
