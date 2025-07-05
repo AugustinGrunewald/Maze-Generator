@@ -2,7 +2,7 @@
 Maze generator using the Prim algorithm.
 
 # Overview
-Starting from initial txt data that contains the size of the graph and the weights linking the nodes, we use the Prim algorithm that finds a minimum spanning tree. Using this construction we then create pbm images that represent maze of differents sizes. 
+Starting from initial txt data that contains the size of the graph and the weights linking the nodes, we use the [Prim algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm) that finds a minimum spanning tree. Using this construction we then create pbm images that represent maze of differents sizes. 
 Two different structures are used to store the nodes to explore first a set and secondly a binary heap (file with suffix -bh).
 Computation times also have been measured and show how faster the binary heap is.
 
