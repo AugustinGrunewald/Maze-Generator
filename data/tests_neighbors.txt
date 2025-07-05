@@ -1,0 +1,54 @@
+neighbors neighbors_node_0 = {
+	.nb = 2,
+	.nodes = { 10, 1 },
+	.edges = { 1, 0 },
+};
+
+neighbors neighbors_node_5 = {
+	.nb = 3,
+	.nodes = { 15, 6, 4 },
+	.edges = { 11, 10, 8 },
+};
+
+neighbors neighbors_node_9 = {
+	.nb = 2,
+	.nodes = { 19, 8 },
+	.edges = { 19, 16 },
+};
+
+neighbors neighbors_node_20 = {
+	.nb = 3,
+	.nodes = { 30, 21, 10 },
+	.edges = { 41, 40, 21 },
+};
+
+neighbors neighbors_node_42 = {
+	.nb = 4,
+	.nodes = { 52, 43, 32, 41 },
+	.edges = { 85, 84, 65, 82 },
+};
+
+neighbors neighbors_node_59 = {
+	.nb = 3,
+	.nodes = { 69, 49, 58 },
+	.edges = { 119, 99, 116 },
+};
+
+neighbors neighbors_node_70 = {
+	.nb = 2,
+	.nodes = { 71, 60 },
+	.edges = { 140, 121 },
+};
+
+neighbors neighbors_node_74 = {
+	.nb = 3,
+	.nodes = { 75, 64, 73 },
+	.edges = { 148, 129, 146 },
+};
+
+neighbors neighbors_node_79 = {
+	.nb = 2,
+	.nodes = { 69, 78 },
+	.edges = { 139, 156 },
+};
+

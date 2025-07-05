@@ -1,0 +1,11 @@
+# === VS Code configuration directory ===
+.vscode/
+
+# === Object files ===
+*.o
+
+# === Objects created during execution ===
+*.pbm
+
+# === Other ===
+**/.DS_Store
